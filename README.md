@@ -18,3 +18,6 @@ Second, planning ahead is crucial for success. Before starting a new project or 
 
 # 2023-11-19
 - "Keep it simple, stupid!"
+
+# 2023-11-20
+- "Keep it simple, stupid!"
