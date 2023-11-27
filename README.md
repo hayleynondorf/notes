@@ -60,3 +60,6 @@ This quote highlights the ongoing challenge programmers face in creating user-fr
 4. Allocate time: Estimate how long each tasks will take, based on your experience and resources. Be conservative with your estimates, as you don't want to underestimate the time needed. Then, schedule your task into your day or week, according to your availability and priorities.   
 5. Stay organized: Use project management tools, such as Trello, Asana, Jira, to track and manage your projects. These tools can help with task assignment, collaboration, communication, progress tracking, etc. Keep your code and project files well-organized and version controlled.    
 6. Learn and grow: Keep learning new programming skills, tools and best practices. Read blogs, articles, books, attend conferences, workshops, meetups, join communities. Share your knowledge and learn from others.
+
+# 2023-11-27
+- "Today's programming wisdom is to focus on writing clean, maintainable code that can be easily understood and modified by others. This means using clear and descriptive variable names, commenting your code thoroughly, and organizing your code into logical modules or functions. It also means avoiding unnecessary complexity and striving for simplicity whenever possible. By following these principles, you can create code that not only works well but also stands the test of time."
