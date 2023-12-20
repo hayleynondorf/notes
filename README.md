@@ -147,3 +147,6 @@ Second, use time management techniques to your advantage. Block out time in Your
 
 # 2023-12-19
 - Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. By prioritizing tasks based on their importance and urgency, you can make better use of your time and resources. Planning ahead can help to avoid last-minute emergencies and ensure that you have enough time to complete each task properly. Finally, staying organized will keep your code clean and readable, making it easier to maintain and update in the future.
+
+# 2023-12-20
+- Today's programming wisdom is to "write code that is easy to delete, not easy to extend." This means focusing on simplicity and modularity in your codebase, making it easier to remove or replace components as needed. It's better to write concise, reusable code that can be easily discarded if it becomes unnecessary, rather than complex code that tries to anticipate every possible future need. By prioritizing simplicity and adaptability, you can create a more maintainable and scalable codebase over the long term.
