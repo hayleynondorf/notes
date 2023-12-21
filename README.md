@@ -150,3 +150,6 @@ Second, use time management techniques to your advantage. Block out time in Your
 
 # 2023-12-20
 - Today's programming wisdom is to "write code that is easy to delete, not easy to extend." This means focusing on simplicity and modularity in your codebase, making it easier to remove or replace components as needed. It's better to write concise, reusable code that can be easily discarded if it becomes unnecessary, rather than complex code that tries to anticipate every possible future need. By prioritizing simplicity and adaptability, you can create a more maintainable and scalable codebase over the long term.
+
+# 2023-12-21
+- "Keep it simple, stupid!"
