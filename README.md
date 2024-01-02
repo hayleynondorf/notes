@@ -193,3 +193,9 @@ Next, use tools and resources to help manage your workflow. For example, using v
 
 # 2024-01-01
 - "Keep it simple, stupid!"
+
+# 2024-01-02
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, prioritize your tasks based on their importance and deadlines. By giving priority to the tasks that need to get done first, you can ensure that you are making progress on the right things.
+
+Second, always plan beforehand. When starting a new project or working on a complex task, create a plan with a timeline and break it down into smaller, manageable steps. Having a clear plan will keep you focused and on track, making it easier to avoid distractions and last-minute changes. 
+ - 来自n.p.m.
