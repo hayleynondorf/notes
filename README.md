@@ -206,3 +206,8 @@ Second, always plan beforehand. When starting a new project or working on a comp
 Second, planning ahead is crucial. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break the task down into smaller, manageable steps, then allocate time for each step. Planning ahead will ensure you have a clear roadmap and can avoid getting lost in the code. 
  -- 212字
 最后，保持组织是关键。使用版本控制系统，如Git，来跟踪代码更改。确保代码组织良好，遵循一致的命名约定和代码风格。定期审查代码以识别和修复错误。通过保持代码整洁，你可以更容易地发现和解决问题，从而提高效率。
+
+# 2024-01-03
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' — Donald Knuth. Focus on writing clear, maintainable code first. Optimize only when necessary, and after profiling to identify bottlenecks. Remember that simplicity, readability, and correctness are often more critical than micro-optimizations." 
+
+This quote by computer scientist Donald Knuth emphasizes that over-concern with efficiency early in the development process can lead to complex, hard-to-maintain code. It's better to write good, working code initially and optimize later if it proves to be a performance bottleneck. This principle reflects the importance of balance between code quality and performance considerations in software engineering.
