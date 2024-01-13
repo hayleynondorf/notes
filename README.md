@@ -262,3 +262,6 @@ Remember to stay flexible and adaptable, as you may encounter unforeseen challen
 1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are most important and which can be completed later. By prioritizing your tasks in this way, you can ensure that you focus on the most critical aspects of the project first. You can use techniques such as the MoSCoW method (Must have, Should have and Could have) to categorize your task list. 
  2. Plan ahead: Planning is crucial for any project. It helps you organize your thoughts, set goals, allocate resources, schedule time, etc. When it comes to programming, planning can involve creating a detailed design document, writing pseudo-code, or using project management tools. Planning ahead will save you time and effort in the long run.  
 3. Stay organized: A clean and organized codebase is a joy to work with. Organizing and documenting your code will make it easier for you and other developers to understand and maintain your work. Use version control systems like Git to track your changes and collaborate with others. Additionally, follow coding conventions and use code formatting tools to keep your codes tidy.
+
+# 2024-01-13
+- "Keep it simple, stupid!"
