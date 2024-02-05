@@ -376,3 +376,6 @@ This quote emphasizes the importance of keeping code simple and clean, a princip
 
 Second, planning ahead is crucial for success. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break the task down into smaller, manageable steps, then allocate time and resources to each step. Having a clear plan will make it easier to stay focused and avoid getting lost in the details. 
  - 来自NLP
+
+# 2024-02-05
+- "Keep it simple, stupid!"
